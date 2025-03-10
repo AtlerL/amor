@@ -149,7 +149,6 @@ button{
 
 footer{
     background-color:rgb(32, 45, 114);
-
     font-family:cursive;
     font-size:30px;
     border-top-left-radius:10px;
@@ -161,5 +160,5 @@ footer{
     height:160px;
     position:absolute;
     bottom:30px;
-    right:0px;
+    right:-8px;
 }
