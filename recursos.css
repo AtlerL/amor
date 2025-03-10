@@ -112,6 +112,19 @@ button{
     background-color:rgba(14, 13, 13, 0.425);
 }
 
+.recuerdos h1{
+    font-family:cursive;
+    font-size: 30px;
+    text-align: center;
+    color: #140909;
+    font-weight: bold;
+}
+
+.recuerdos img{
+    height:400px;
+    border-radius:10px;
+    margin:20px;
+}
 
 .album{
     max-height:200px;
@@ -133,4 +146,13 @@ button{
     bottom:0px;
     max-width:80x;
     max-height:80px;
+}
+
+footer{
+    background-color:rgb(32, 45, 114);
+    height:100%; width:100%;
+    font-family:cursive;
+    font-size:30px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
 }
