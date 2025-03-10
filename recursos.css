@@ -32,7 +32,6 @@ body{
 }
 .container{
     position:relative;
-    width:100%;
     text-align: center;
     border-radius:10px;
 }
