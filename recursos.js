@@ -50,9 +50,9 @@ window.addEventListener('DOMContentLoaded', function() {
                             if (index===frases.length-1){
                                 inicio.remove();
                             }
-                        }, 600);  // Espera 1 segundo después de la animación de desaparición
-                    }, 2000);  // Las frases desaparecerán después de 2 segundos
-                }, index * 3000);  // Las frases aparecerán una por una con un retraso entre ellas
+                        }, 600);
+                    }, 2000);
+                }, index * 3000);
             })(i);
         }
     }
