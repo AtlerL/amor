@@ -35,6 +35,14 @@ body{
     text-align: center;
     border-radius:10px;
 }
+.aniversario{
+    border-radius:30%;
+    max-width:150px;
+    max-height:150px;
+    position:fixed;
+    opacity:0.8;
+    left:10px;
+}
 .top{
     width:90%;
     margin:auto;
